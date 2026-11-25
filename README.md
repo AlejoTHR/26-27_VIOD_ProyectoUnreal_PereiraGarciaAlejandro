@@ -1,6 +1,6 @@
 AGRADECIMIENTOS:
 
-KayKit: Forest Assets
+Kay Lousberg (KayKit): Forest Assets
 https://kaylousberg.itch.io/kaykit-forest
 
 Quaternius: Fantasy props
